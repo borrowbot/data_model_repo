@@ -1,0 +1,93 @@
+-
+    input: '[REQ] (15USD ) - (Sydney, NSW, Australia), (June 8), (Paypal)'
+    labels:
+        -
+            - 7
+            - 9
+-
+    input: '[REQ] (£6,000 ) - (Brighton, UK), (June 2018), (PayPal)'
+    labels:
+        -
+            - 8
+            - 13
+-
+    input: '[REQ] (US $2,000 ) - (#Buffalo, New York, USA), (August 31, 2017), (Paypal)'
+    labels:
+        -
+            - 11
+            - 16
+-
+    input: '[REQ] ($155) - (#Lexington, KY US), ($170.50 on 06/30/17), (PayPal)'
+    labels:
+        -
+            - 8
+            - 11
+        -
+            - 38
+            - 44
+-
+    input: '[REQ] (£160) - (#Manchester, UK), (18/06/16), (Pre-Arranged - paying back £200)'
+    labels:
+        -
+            - 8
+            - 11
+        -
+            - 75
+            - 78
+-
+    input: '[REQ] ($200) - (Chattanooga, TN, US), (7/17/17), (1 payment of $100 and 2 payments of $50)'
+    labels:
+        -
+            - 8
+            - 11
+        -
+            - 64
+            - 67
+        -
+            - 87
+            - 89
+-
+    input: '[REQ] ($25), (#panama city, Fl, Usa), (repay $35 on or before Sunday June 11th), (PayPal)'
+    labels:
+        -
+            - 8
+            - 10
+        -
+            - 46
+            - 48
+-
+    input: '[REQ] (#Coventry,Uk) (Paypal or BT) (£100)/$125 payback £125/$150)(01/07/17)'
+    labels:
+        -
+            - 38
+            - 41
+        -
+            - 44
+            - 47
+        -
+            - 57
+            - 60
+        -
+            - 62
+            - 65
+-
+    input: '[REQ] ($4891) - (#Columbus, GA, USA), (NOV 15, 2019), (Paypal)'
+    labels:
+        -
+            - 8
+            - 12
+-
+    input: '[REQ] ($550) - (#Macon, GA, USA), ($600 total June 26th $300 and July 9th $300), (Paypal)'
+    labels:
+        -
+            - 8
+            - 11
+        -
+            - 36
+            - 39
+        -
+            - 57
+            - 60
+        -
+            - 75
+            - 78

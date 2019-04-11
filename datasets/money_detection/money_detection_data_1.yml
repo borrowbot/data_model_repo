@@ -1,0 +1,78 @@
+-
+    input: '[REQ] ($1000 over 2 people?) - (#Gilbert, AZ, USA), (Monthly payments of 125), (PayPal or present post dated checks beginning July 2) - Repay $1250/loan'
+    labels:
+        -
+            - 8
+            - 12
+        -
+            - 73
+            - 76
+        -
+            - 143
+            - 147
+-
+    input: '[REQ] (£20) - (#Essex, UK), (£26 on 16th july 2017), (Paypal)'
+    labels:
+        -
+            - 8
+            - 10
+        -
+            - 30
+            - 32
+-
+    input: '[REQ] (1000.00) - (#Saco, Maine, USA), (1250.00 by 9/30/17), (Paypal)'
+    labels:
+        -
+            - 7
+            - 14
+        -
+            - 40
+            - 47
+-
+    input: '[REQ] (3,000) - (#Fort Dodge, Iowa, U.S.), (03/01/18), (PayPal)'
+    labels:
+        -
+            - 7
+            - 12
+-
+    input: '[REQ] (£20) (MCR uk) , (payback £21 next wednesday) (Paypal)'
+    labels:
+        -
+            - 8
+            - 10
+        -
+            - 33
+            - 35
+-
+    input: '[REQ] ($30) - (#New Orleans, Louisiana, United States), (Later tonight or tomorrow), (Bitcoin)'
+    labels:
+        -
+            - 8
+            - 10
+-
+    input: '[REQ] (40 cad to get home!) - (Ontario, Canada), (50 cad on July 7th), (Bank Transfer)'
+    labels:
+        -
+            - 7
+            - 9
+        -
+            - 50
+            - 52
+-
+    input: '[REQ] ($25) #kyle, Texas, USA (pay back 6/30/17) (square cash)'
+    labels:
+        -
+            - 8
+            - 10
+-
+    input: '[REQ] ($1850) (July 10th) (#Homestead, Florida, USA)'
+    labels:
+        -
+            - 8
+            - 12
+-
+    input: '[REQ] ($11.00 ) - (#Charlotte, Nc, Usa), (repaid by 6/29/17), (paypal)'
+    labels:
+        -
+            - 8
+            - 13

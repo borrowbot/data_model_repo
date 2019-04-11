@@ -1,0 +1,24 @@
+-
+    input: '[REQ] (120.00 ) - (#Tucson, Arizona), (6/16), ($135.90 Pre-Arranged)'
+    labels:
+        -
+            - 7
+            - 13
+        -
+            - 48
+            - 54
+-
+    input: '[REQ] ($1260) - (#Indianapolis, IN, USA), (8/21/17), (Paypal)'
+    labels:
+        -
+            - 8
+            - 12
+-
+    input: '[REQ]-($700.00) (Queen Creek, Arizona, USA) (payback 1000.00 by August 11th 2017) (Verified PayPal)'
+    labels:
+        -
+            - 8
+            - 14
+        -
+            - 53
+            - 60
