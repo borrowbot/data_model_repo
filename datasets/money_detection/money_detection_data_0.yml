@@ -1,0 +1,78 @@
+-
+    input: '[PAID] (/u/Kavi) - ($125) (Early)'
+    labels:
+        -
+            - 21
+            - 24
+-
+    input: '[REQ] ($30) - (#Lafayette, LA, US), ($40 by 10/04/2018), (Paypal)'
+    labels:
+        -
+            - 8
+            - 10
+        -
+            - 38
+            - 40
+-
+    input: '[REQ] ($75 ) - (#Hattiesburg, MS, USA), (10/16/18), (Cash App)'
+    labels:
+        -
+            - 8
+            - 10
+-
+    input: '[REQ] ($35) (#Portsmouth, OH, USA) (Repay $45 10/3/2018) (PayPal) - Prearranged'
+    labels:
+        -
+            - 8
+            - 10
+        -
+            - 43
+            - 45
+-
+    input: '[REQ] $400 - (#Boston, Massachusetts, USA)- ($480 by 11/1/18 - (PayPal) - Prearranged'
+    labels:
+        -
+            - 7
+            - 10
+        -
+            - 46
+            - 49
+-
+    input: '(£350) - (#Runcorn, Cheshire, UK), (£600 returned in two parts 26th October & 26th Novmeber), (Paypal)'
+    labels:
+        -
+            - 2
+            - 5
+        -
+            - 37
+            - 40
+-
+    input: '[REQ] (250) - (#houston, Texas, USA), (10/27/18), (paypal, cashapp, venmo)'
+    labels:
+        -
+            - 7
+            - 10
+-
+    input: '[REQ] (£1000) - (#Essex, England), (4 Payments of £300), (Pre-Arranged)'
+    labels:
+        -
+            - 8
+            - 12
+        -
+            - 51
+            - 54
+-
+    input: '[PAID] (u/verydisappointing) ($180 GBP + Int.) (EARLY)'
+    labels:
+        -
+            - 31
+            - 34
+-
+    input: '[REQ] Need $25 for food in Manchester, CT. Can pay back $30 in a week.'
+    labels:
+        -
+            - 12
+            - 14
+        -
+            - 57
+            - 59

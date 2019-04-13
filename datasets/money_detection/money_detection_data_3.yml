@@ -22,3 +22,54 @@
         -
             - 53
             - 60
+-
+    input: '[REQ] (360.00) - (#Tacoma, WA, US), (10/19/18), (PayPal/Pre-Arranged)'
+    labels:
+        -
+            - 7
+            - 13
+-
+    input: '[REQ] ($100) - (#Carlisle, Pa, USA) ($140 - 10/05) (Paypal)'
+    labels:
+        -
+            - 8
+            - 11
+        -
+            - 38
+            - 41
+-
+    input: '[REQ] ($25) - (#Goleta, California, USA), (1st of October), (Venmo, CashApp)'
+    labels:
+        -
+            - 8
+            - 10
+-
+    input: '[PAID] (/u/JustRedditThat) - ($310) (Early)'
+    labels:
+        -
+            - 31
+            - 34
+-
+    input: '[PAID] (u/likrevo) - ($85) (On Time)'
+    labels:
+        -
+            - 23
+            - 25
+-
+    input: '[REQ] $260 (#Boston, MA, USA) ($280 on 10/5/18) (PayPal)'
+    labels:
+        -
+            - 7
+            - 10
+        -
+            - 32
+            - 35
+-
+    input: '[REQ] (465 Usd) - (#Brescia, Lombardia, Italy), (230 by or before 20/10/18 - The rest + any interests asked by 31/10/18 ), (Paypal)'
+    labels:
+        -
+            - 7
+            - 10
+        -
+            - 49
+            - 52
