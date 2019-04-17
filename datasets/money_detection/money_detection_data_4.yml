@@ -1,0 +1,72 @@
+-
+    input: '[PAID] (/u/Riveted) - (100 euros), (On Time)'
+    labels:
+        -
+            - 23
+            - 26
+-
+    input: '[REQ] (1000€) (#illle-sur-tet, languedoc-rossillon, france) (1196€ repayment) (Paypal)'
+    labels:
+        -
+            - 7
+            - 11
+        -
+            - 61
+            - 65
+-
+    input: '[REQ] (80) - (Largo, FL, USA), (Repay $100 on 10/12/2018), (PayPal)'
+    labels:
+        -
+            - 7
+            - 9
+        -
+            - 39
+            - 42
+-
+    input: '[PAID] (u/verydisappointing) ($180 GBP + Int.) (EARLY)'
+    labels:
+        -
+            - 31
+            - 34
+-
+    input: '[REQ] (100$) (#Copenhagen, Hovedstaden, Denmark) (150$) (1/1/19) (PayPal)'
+    labels:
+        -
+            - 7
+            - 10
+        -
+            - 50
+            - 53
+-
+    input: '[PAID] (/u/swellymm) - (25) (On Time)'
+    labels:
+        -
+            - 24
+            - 26
+-
+    input: '[REQ] (200$) - (#VA Beach, VA, USA), (November 9th, 2018), (PayPal)'
+    labels:
+        -
+            - 7
+            - 10
+-
+    input: '[REQ] (400) - (Portland, OR, US), (repay 475 11/30), (paypal, google)'
+    labels:
+        -
+            - 7
+            - 10
+        -
+            - 41
+            - 44
+-
+    input: '[REQ] (euro900 ) - (#kilrickle loughrea Co Galway Ireland), (nov 9 2018), (Paypal )'
+    labels:
+        -
+            - 11
+            - 14
+-
+    input: "[REQ] (2500 USD ) - (#Millville, NJ, USA), (12/21/2018), (PayPal)"
+    labels:
+        -
+            - 7
+            - 11

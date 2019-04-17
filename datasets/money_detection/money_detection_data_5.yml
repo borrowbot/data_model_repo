@@ -1,0 +1,78 @@
+-
+    input: '[PAID] (/u/Moniker84) - (200 USD) (Early)'
+    labels:
+        -
+            - 25
+            - 38
+-
+    input: '[REQ] (250EUR) - (#Matosinhos,Porto,Portugal), (Oct 4th), (Paypal,Pre-Arranged w/aznpwnzor)'
+    labels:
+        -
+            - 7
+            - 10
+-
+    input: '[REQ] 5,900$ USD to purchase used 32,000 miles car. Income is 58,000 full time Support Engineer. Will provide any form of ID and verifiable information.'
+    labels:
+        -
+            - 6
+            - 11
+        -
+            - 62
+            - 68
+-
+    input: '[REQ] (USD1850) (Singapore, Singapore, Singapore) (to pay USD500 weekly starting on 3rd sept till USD2000 on 24th sept) (Western Union)'
+    labels:
+        -
+            - 10
+            - 14
+        -
+            - 61
+            - 64
+        -
+            - 101
+            - 105
+-
+    input: '[UNPAID] (/u/SPWally) (#Burlington, Ontario, Canada) - ($9,000), (from 1 to 2.5 months late)'
+    labels:
+        -
+            - 57
+            - 62
+-
+    input: '[REC] -(445) -(#tacoma.wa.USA) (PayPal) will pay back (.400)-(10/05/18.)'
+    labels:
+        -
+            - 8
+            - 11
+        -
+            - 56
+            - 59
+-
+    input: '[REQ] [$1,000] [#Bronx, NY, USA] [Paypal, Cashapp, Netspend]'
+    labels:
+        -
+            - 8
+            - 13
+-
+    input: '[REQ] ($900/1000 ) - (#San Jose, CA, USA), (10/31/2018), (Zelle, Venmo, Paypal)'
+    labels:
+        -
+            - 8
+            - 11
+        -
+            - 12
+            - 16
+-
+    input: '[REQ] ($6,000) (fort wayne, Indiana)'
+    labels:
+        -
+            - 8
+            - 13
+-
+    input: '[REQ] ($1,850) - (#Glendale, Arizona, USA) (Return payment $2,300 on November 29th) (PayPal) (pre-arranged)'
+    labels:
+        -
+            - 8
+            - 13
+        -
+            - 60
+            - 65
