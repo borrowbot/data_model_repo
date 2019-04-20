@@ -1,0 +1,93 @@
+-
+    input: '(/u/Throwapair) - ($400)(66 days LATE)'
+    labels:
+        -
+            - 20
+            - 23
+-
+    input: '[REQ] (£150) - (#Belfast, NI, UK), (£275 on 02/11/18), (PayPal) '
+    labels:
+        -
+            - 8
+            - 11
+        -
+            - 37
+            - 40
+-
+    input: '[REQ] 500 - (#Kennesaw, GA, United States), (11/9/2018), Paypal/Venmo'
+    labels:
+        -
+            - 6
+            - 9
+-
+    input: '[REQ] ($750.00) - (#Houston, TX, USA), (Repay $1,000 as 10/24 $200, 11/24 $200, 12/24 $200, 1/24 $200, 2/24 $200), (Venmo/Bank Transfer)'
+    labels:
+        -
+            - 8
+            - 14
+        -
+            - 47
+            - 52
+        -
+            - 63
+            - 66
+        -
+            - 75
+            - 78
+        -
+            - 87
+            - 90
+        -
+            - 98
+            - 101
+        -
+            - 109
+            - 112
+-
+    input: '[REQ] (£50) - (#Sydenham, London, UK) (Repay £55 within ONE month maximum) (Paypal)'
+    labels:
+        -
+            - 8
+            - 10
+        -
+            - 46
+            - 48
+-
+    input: '(Req)(1500)(modesto,California)(repayment February,2019)(paypal)'
+    labels:
+        -
+            - 6
+            - 10
+-
+    input: '[REQ]($200) - (#Commack, NY, USA) ($240 - 10/31) (PayPal,cash app)'
+    labels:
+        -
+            - 7
+            - 10
+        -
+            - 36
+            - 39
+-
+    input: '[REQ] ($560) (#Plattsburgh, New York, US) (Repay $600 10-1)'
+    labels:
+        -
+            - 8
+            - 11
+        -
+            - 50
+            - 53
+-
+    input: '[REQ] £10 (GBP) Wakefield, UK '
+    labels:
+        -
+            - 7
+            - 9
+-
+    input: '[UNPAID] (/u/vegasr6rider) (#Las Vegas, NV USA) - ($800+1500), (Months Late)'
+    labels:
+        -
+            - 52
+            - 55
+        -
+            - 56
+            - 60

@@ -1,0 +1,81 @@
+-
+    input: '[REQ] (£120) - (#Wrexham, Wrexam County, Wales), (19/09/2018), (£155, Paypal)'
+    labels:
+        -
+            - 8
+            - 11
+        -
+            - 65
+            - 68
+-
+    input: '[REQ] ($7 ) - (#Boston, MA, USA), (October 24, 2018), (Paypal)'
+    labels:
+        -
+            - 8
+            - 9
+-
+    input: '[UNPAID] (/u/wmeacham) (#America) - ($1700), (Many Days Late)'
+    labels:
+        -
+            - 38
+            - 42
+-
+    input: '[REQ] ($85) - (Dallas, Tx), ($100 10/4/18), (cash app)'
+    labels:
+        -
+            - 8
+            - 10
+        -
+            - 30
+            - 33
+-
+    input: '[REQ] ($30) (#Grand Rapids, MI, USA) (Repay $45 Oct 18th) (Paypal)'
+    labels:
+        -
+            - 8
+            - 10
+        -
+            - 45
+            - 47
+-
+    input: '[REQ] (100$) - (#Sacremento, CA, USA), (200$ on 10/20/18), (Paypal, Venmo)'
+    labels:
+        -
+            - 7
+            - 10
+        -
+            - 40
+            - 43
+-
+    input: '[REQ] ($170) - (#Philadelphia, PA,USA) ($95 on 10/19, and 11/2) (Pre-arranged)'
+    labels:
+        -
+            - 8
+            - 11
+        -
+            - 41
+            - 43
+-
+    input: '[PAID] (u/red-reddington) (40GBP + int) (1 day EARLY)'
+    labels:
+        -
+            - 27
+            - 29
+-
+    input: '[REQ] (250$) - (#Montreal, QC, Canada), (350$ on 12/10/18), (Cash app, Facebook Messenger)'
+    labels:
+        -
+            - 7
+            - 10
+        -
+            - 41
+            - 44
+-
+    input: ' [REQ] ($430),(#Winchester MA USA),($480 on 11/4/18),(Cash app,Venmo)'
+    labels:
+        -
+            - 9
+            - 12
+        -
+            - 37
+            - 40
