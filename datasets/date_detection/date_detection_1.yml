@@ -1,0 +1,87 @@
+-
+    input: '[REQ] (100$) (#Copenhagen, Hovedstaden, Denmark) (150$) (1/1/19) (PayPal)'
+    labels:
+        -
+            - 57
+            - 63
+-
+    input: '[REQ] (#Coventry,Uk) (Paypal or BT) (£100)/$125 payback £125/$150)(01/07/17)'
+    labels:
+        -
+            - 67
+            - 75
+-
+    input: '[REQ] (2500) - (#Lima, Ohio, USA), (Repay by January 2019), (Paypal, Bank transfer)'
+    labels:
+        -
+            - 45
+            - 57
+-
+    input: '[REQ] ($100) - (#Vail, Co, USA,), (1/1/18), (PayPal)'
+    labels:
+        -
+            - 35
+            - 41
+-
+    input: '[REQ] ($150) (#Akron, OH, USA)(payback $60 on 1/4, 1/18, and 2/1) (PayPal or Venmo)'
+    labels:
+        -
+            - 46
+            - 49
+        -
+            - 52
+            - 55
+        -
+            - 61
+            - 64
+-
+    input: '[REQ] ($400) - (#Hyderabad, Telangana, India), (15 January), (PayPal)'
+    labels:
+        -
+            - 48
+            - 58
+-
+    input: '[REQ] ($500) - (#houston, tx, USA), (REPAY $560 on 1/16/18), (PAYPAL/CASH APP)'
+    labels:
+        -
+            - 51
+            - 58
+-
+    input: '[REQ] (£170) - (#Belfast, Northern Ireland, UK), (31/01/2018), (PayPal)'
+    labels:
+        -
+            - 50
+            - 60
+-
+    input: '[REQ] (75$) - (#Canton, Ohio, USA), (100$ on 4 Jan 2018), (Cash app, PayPal)'
+    labels:
+        -
+            - 45
+            - 55
+-
+    input: '[REQ] ($500 ) - (#Manassas, Virginia, USA), (Jan 1-2), (Paypal/will pay back in crypto)'
+    labels:
+        -
+            - 45
+            - 52
+-
+    input: '[REQ] (200) - (Dallas, TX, USA), (01/15/2018), (PayPal)'
+    labels:
+        -
+            - 34
+            - 44
+-
+    input: '[REQ] ($250) - (#Santo Domingo Este, Santo Domingo, Dominican Republic) ($50 on January 15th, $100 January 30th, $50 February 15th, $75 February 30th) (Paypal)'
+    labels:
+        -
+            - 80
+            - 92
+        -
+            - 99
+            - 111
+        -
+            - 117
+            - 130
+        -
+            - 136
+            - 149

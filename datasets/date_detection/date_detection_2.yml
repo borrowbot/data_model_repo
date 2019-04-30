@@ -1,0 +1,75 @@
+-
+    input: '[REQ] ($150) - (#Bowie,Maryland , USA), ($250 Feb 2nd, 2018), (PayPal)'
+    labels:
+        - 46
+        - 59
+
+-
+    input: 'REQ- (#yorba linda, CA, USA) (repayment feb 1,2018) paypal'
+    labels:
+        -
+            - 40
+            - 50
+-
+    input: '[REQ] ($100 CDN) - (#Courtice, Ontario, Canada), (February 1st, 2018), (Paypal/E-Transfer)'
+    labels:
+        -
+            - 50
+            - 68
+-
+    input: '[REQ] (700$) - (#Fort Wayne, Indiana, USA), (2-25-2018), (Paypal)'
+    labels:
+        -
+            - 45
+            - 54
+-
+    input: '[REQ] (200USD) (#Phoenix, AZ, USA) (220 1Feb)'
+    labels:
+        -
+            - 40
+            - 44
+-
+    input: '[REQ] ($40) - (#Belton, TX, United States), (2/16/18), (Pre-Arranged, Square Cash)'
+    labels:
+        -
+            - 45
+            - 52
+-
+    input: '[REQ]($200)-(#Naypyitaw,Myanmar)(20-2-2018,$250 repayment)(paypal,perfectmoney,other)'
+    labels:
+        -
+            - 33
+            - 42
+-
+    input: '[REQ] ($600) - (#Greenwood Lake, NY, USA), (REPAY $332 on 02/02 and 02/16) (Prearranged with /u/dailo01)'
+    labels:
+        -
+            - 58
+            - 63
+        -
+            - 68
+            - 73
+-
+    input: '[REQ] (230$ ) - (#San Pablo, Ca, USA), (02.02.2018), (Paypal)'
+    labels:
+        -
+            - 40
+            - 50
+-
+    input: '[REQ] ($100) - (#Fulton, NY, USA), (2/2/18), (PayPal)'
+    labels:
+        -
+            - 36
+            - 42
+-
+    input: '[REQ] ($30AUD) - (#Sydney, NSW, AUSTRALIA), (2FEB2018), (Paypal)'
+    labels:
+        -
+            - 45
+            - 53
+-
+    input: '[REQ] ($15) - (#Columbus, OH, USA), (Repay $20 on 2/5/18), (PayPal)'
+    labels:
+        -
+            - 50
+            - 56

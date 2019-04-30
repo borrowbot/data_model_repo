@@ -1,0 +1,81 @@
+-
+    input: '[REQ] ($300- Payback $350 ) - (#NY, NY, USA), (5th October 2018), (PayPal)'
+    labels:
+        -
+            - 47
+            - 63
+-
+    input: '[REQ] ($30) - (#Lafayette, LA, US), ($40 by 10/04/2018), (Paypal)'
+    labels:
+        -
+            - 44
+            - 54
+-
+    input: '[REQ] ($75 ) - (#Hattiesburg, MS, USA), (10/16/18), (Cash App)'
+    labels:
+        -
+            - 41
+            - 49
+-
+    input: '[REQ] ($35) (#Portsmouth, OH, USA) (Repay $45 10/3/2018) (PayPal) - Prearranged'
+    labels:
+        -
+            - 46
+            - 55
+-
+    input: '[REQ] (200) - (#Virginia Beach, VA, United States), (Oct 23, 2018), (Cashapp) '
+    labels:
+        -
+            - 53
+            - 65
+-
+    input: '(£350) - (#Runcorn, Cheshire, UK), (£600 returned in two parts 26th October & 26th Novmeber), (Paypal)'
+    labels:
+        -
+            - 63
+            - 75
+        -
+            - 78
+            - 91
+-
+    input: '[REQ] (250) - (#houston, Texas, USA), (10/27/18), (paypal, cashapp, venmo)'
+    labels:
+        -
+            - 39
+            - 47
+-
+    input: '[REQ] ($600), (#Philadelphia, PA, USA), (October 13, 2018), (Venmo/CashApp)'
+    labels:
+        -
+            - 41
+            - 57
+-
+    input: '[REQ] ($25) - (#Goleta, California, USA), (1st of October), (Venmo, CashApp)'
+    labels:
+        -
+            - 43
+            - 57
+-
+    input: '[REQ] (1000) - (#Northfield, Ohio, USA) (18% int. 320 payment 10/5/2018 then 300 bi weekly payments until 11/6/2018) ( Cash app, Paypal)'
+    labels:
+        -
+            - 62
+            - 9
+        -
+            - 106
+            - 115
+-
+    input: '[REQ] ($60) - (Louisville, KY, USA) (Repay $80 Oct. 6 2018) (PayPal)'
+    labels:
+        -
+            - 47
+            - 58
+-
+    input: '[REQ] (465 Usd) - (#Brescia, Lombardia, Italy), (230 by or before 20/10/18 - The rest + any interests asked by 31/10/18 ), (Paypal)'
+    labels:
+        -
+            - 66
+            - 74
+        -
+            - 111
+            - 119

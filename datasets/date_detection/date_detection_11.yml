@@ -1,0 +1,77 @@
+-
+    input: '[REQ] $400 - (#Boston, Massachusetts, USA)- ($480 by 11/1/18 - (PayPal) - Prearranged'
+    labels:
+        -
+            - 53
+            - 60
+-
+    input: '[REQ] (400) - (Portland, OR, US), (repay 475 11/30), (paypal, google)'
+    labels:
+        -
+            - 45
+            - 50
+-
+    input: '[REQ] (200$) - (#VA Beach, VA, USA), (November 9th, 2018), (PayPal)'
+    lables:
+        -
+            - 38
+            - 56
+-
+    input: '[REQ] (euro900 ) - (#kilrickle loughrea Co Galway Ireland), (nov 9 2018), (Paypal )'
+    lables:
+        -
+            - 61
+            - 71
+-
+    input: '[REQ] ($4891) - (#Columbus, GA, USA), (NOV 15, 2019), (Paypal)'
+    lables:
+        -
+            - 39
+            - 51
+-
+    input: '[REQ] - ($700) (#Mesa, AZ, USA) (Repayment $750 11/30) (Paypal, Cash App)'
+        -
+            - 48
+            - 53
+-
+    input: '[REQ] ($200 ) - (#Northridge, CA, USA), (11/17/17), ($220 return via paypal/venmo)'
+    lables:
+        -
+            - 41
+            - 49
+-
+    input: '[REQ] ($500) - (Detroit, MI, USA), (11/1, 11/15), (Pre-Arranged)'
+    lables:
+        -
+            - 42
+            - 47
+        -
+            - 36
+            - 40
+
+-
+    input: '[REQ] ($600 ) - (#Newburgh, NY 12550), (11/19), (Paypal)'
+    lables:
+        -
+            - 40
+            - 45
+-
+    input: '[REQ] ($40) - (#Hanoi, Vietnam), (Nov 10th 2017), (Paypal)'
+    lables:
+        -
+            - 34
+            - 47
+
+-
+    input: '[REQ] ($100) - (#Honolulu, Hawaii, USA), (November 1sr 2017), (PayPal)'
+    lables:
+        -
+            - 42
+            - 59
+
+-
+    input: '[REQ] (£165) - (#London, Greater London, United Kingdom), (16/11/2017), (Paypal)'
+    lables:
+        -
+            - 59
+            - 69
