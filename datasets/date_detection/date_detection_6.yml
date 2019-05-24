@@ -1,0 +1,72 @@
+-
+    input: '[REQ]($400) -(#Phenix City, AL, USA) ($450 by 6/24/18)(PayPal)'
+    labels:
+        -
+            - 46
+            - 53
+-
+    input: '[REQ] ($200) - (#Trevor, WI, USA), (6/15/2018), (PayPal)'
+    labels:
+        -
+            - 36
+            - 45
+-
+    input: '[REQ] ($100 ) - (#Shorewood, IL USA), (June 14, 2017), (Paypal)'
+    labels:
+        -
+            - 39
+            - 52
+-
+    input: '[REQ] ($60) - (Modesto, CA, USA) ($75 by 6/1) (Paypal preferred)'
+    labels:
+        -
+            - 41
+            - 44
+-
+    input: '[REQ] (220) - (#Omaha, NE, US), (Repay 265 by 6/29/18), (PayPal)'
+    labels:
+        -
+            - 46
+            - 53
+-
+    input: '[REQ] ($150) - (#Myrtle beach, Sc, USA), ($170 ByJune 6th), (Paypal/Pre-Arranged)'
+    labels:
+        -
+            - 49
+            - 57
+-
+    input: '[REQ] ($300) - (#Natchitoches LA, USA) can pay $350 June 1st), (Paypal/GoogleSend/Venmo/westernUnion)'
+    labels:
+        -
+            - 52
+            - 60
+-
+    input: '[REQ]($80 Paypal)(#Augusta, GA, USA)($100 on 6/28/18)'
+    labels:
+        -
+            - 45
+            - 52
+-
+    input: '[REQ] ($100) - (#jeromesville, oh, usa) (Repay $125 6/22/2018) (PayPal)'
+    labels:
+        -
+            - 52
+            - 61
+-
+    input: '[REQ] ($50) - (#Minneapolis, MN, USA), (Next Sunday, June 24th, with $10 interest), (Venmo)'
+    labels:
+        -
+            - 53
+            - 62
+-
+    input: '[REQ] - (£100), (#Manchester, England), (27th June repayment), (Pre-arranged)'
+    labels:
+        -
+            - 41
+            - 50
+-
+    input: '[REQ] ($1500 ) - (#Mansfield, Ohio, USA), (Starting 6/29/2018), (Paypal/Pre-Arranged)'
+    labels:
+        -
+            - 52
+            - 61
