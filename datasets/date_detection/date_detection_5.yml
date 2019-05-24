@@ -1,0 +1,87 @@
+-
+    input: '[REQ] (30€) (Madrid, Spain) (10€ today, 10€ 8/5, 10€ 15/5) (PayPal)'
+    labels:
+        -
+            - 44
+            - 47
+        -
+            - 53
+            - 57
+-
+    input: '[REQ] ($50) - (#Prince George, BC, Canada), (May 2nd), (Paypal or Internet eTransfer)'
+    labels:
+        -
+            - 45
+            - 52
+-
+    input: '[REQ] (€200) - (#Dublin, Ireland), (19th of May), (PayPal)'
+    labels:
+        -
+            - 36
+            - 47
+-
+    input:  '[REQ] (£65) - (#Essex, UK), (£80 on 6th May 2018), (Paypal or E-transfer)'
+    labels:
+        -
+            - 36
+            - 48
+-
+    input: '[REQ] (200$ ) - (#Belgrade, Serbia, Serbia), (05.30.2017 or 06.30.2017), (PayPal)'
+    labels:
+        -
+            - 46
+            - 56
+        -
+            - 60
+            - 70
+-
+    input: '[REQ] (£27 ) - (#Basildon, Essex, UnitedKingdom), (01/05/2017), (PayPal)'
+    labels:
+        -
+            - 51
+            - 61
+-
+    input: '[REQ]-(150) (Spencer,Ny,us) (pay on 5/3/18 with 175) (PayPal)'
+    labels:
+        -
+            - 36
+            - 42
+-
+    input: '[REQ] (£65) - (#Essex, UK), (£80 on 6th May 2018), (Paypal or E-transfer)'
+    labels:
+        -
+            - 36
+            - 48
+-
+    input: '[REQ] (200 ) - (#Salem, OR, 97301), (5/20), (Paypal)'
+    labels:
+        -
+            - 37
+            - 41
+-
+    input: '[REQ] ($500 ) - (#Columbus, OH, USA), (Repayment dates: 5/4/18 and 5/18/18), (Payment Method: PayPal)'
+    labels:
+        -
+            - 56
+            - 62
+        -
+            - 67
+            - 74
+-
+    input: '[REQ] ($900) - (#Fort Worth, Texas,USA), (05/31/2018), (Paypal)'
+    labels:
+        -
+            - 42
+            - 52
+-
+    input: '[REQ] ($900 ) - (Fort worth, Texas, USA), (May 31st,2018), (Paypal)'
+    labels:
+        -
+            - 43
+            - 56
+-
+    input: '[REQ] ($120 ) - (#Sanford, NC, US), (May 23rd), (Paypal)'
+    labels:
+        -
+            - 37
+            - 45

@@ -1,0 +1,90 @@
+-
+    input: '[REQ] ($570) - (Atlanta, GA, USA), (Repay by April 10th), (Cash App/Venmo/PayPal/Western Union)'
+    labels:
+        -
+            - 45
+            - 55
+-
+    input: '[REQ] ($1100) - (#Edmonton, Alberta, Canada), (2018/04/06), (Pre-Arranged )'
+    labels:
+        -
+            - 47
+            - 57
+-
+    input: '[REQ] ($3100) - (#St. Petersburg, FL, USA), (Repayment 4/20/18), (Paypal/Pre-Arranged)'
+    labels:
+        -
+            - 55
+            - 62
+-
+    input: '[REQ] (500 USD) For a missed electric bill- (#Leesville, LA, USA), (April 13th), (Paypal)'
+    labels:
+        -
+            - 68
+            - 78
+-
+    input: '[REQ] ($250 CAD) - (#Calgary, AB, Canada) (04/01 $280) (PayPal)'
+    labels:
+        -
+            - 43
+            - 48
+-
+    input: '[REQ] (#Topeka, Kansas USA) ($300) ($350 by 4/30/18) (PayPal, Venmo, Etc.)'
+    labels:
+        -
+            - 44
+            - 51
+-
+    input: '[REQ] ($100) - (#New York, NY, USA), (04/16/2018), (Paypal)'
+    labels:
+        -
+            - 39
+            - 43
+-
+    input: '[REQ] ($500) - (Lincoln City, Oregon, USA), ($600 by 4/20/2018) (Venmo, etc)'
+    labels:
+        -
+            - 53
+            - 62
+-
+    input: '[REQ] ($50) - (New York, NY, USA), (Repay $60 April 2), (PayPal)'
+    labels:
+        -
+            - 46
+            - 53
+-
+    input: '[REQ] (£85) - (#Manchester, UK), (30th April 2018), (£100 PayPal)'
+    labels:
+        -
+            - 34
+            - 49
+-
+    input: '[REQ] ($450) - (#Wrightstown, NJ, USA), ($ 500,1 April 2018), (Pre-Arranged w/ u/th3king_13)'
+    labels:
+        -
+            - 47
+            - 59
+-
+    input: '[REQ] ($80) - (#Melbourne, AU), ($90 04/08/2017), (PayPal)'
+    labels:
+        -
+            - 37
+            - 47
+-
+    input: '[REQ] ($25 ) - (Phoenix, Arizona, USA), (8 April 17), (BTC)'
+    labels:
+        -
+            - 41
+            - 51
+-
+    input: "[REQ] ($200) - (#Ypsilanti, MI), ($100 4/25, $100 5/25, $50 6/14), (Square 'Cash App'/Coinbase)'"
+    labels:
+        -
+            - 39
+            - 43
+        -
+            - 50
+            - 54
+        -
+            - 60
+            - 64

@@ -1,0 +1,81 @@
+-
+    input: '[REQ] (3,000) - (#Fort Dodge, Iowa, U.S.), (03/01/18), (PayPal)'
+    labels:
+        -
+            - 44
+            - 52
+-
+    input: '[REQ] ($400) - (#Bristol, IW, England), Paying back $600 on (03/03/2018), (PayPal)'
+    labels:
+        -
+            - 61
+            - 71
+-
+    input: '[REQ] ($1000) - (#Pittsburgh, Pa, USA), (REPAY $1200 on 03/23/18), (PayPal)'
+    labels:
+        -
+            - 56
+            - 64
+-
+    input: '[REQ] ($250) - (#Los Angeles CA, USA), (Mar. 1st, 2018), (PayPal)'
+    labels:
+        -
+            - 40
+            - 54
+-
+    input: '[REQ] ($350 ) - (#Miami, Florida), (03.12.18), (Paypal)'
+    labels:
+        -
+            - 36
+            - 44
+-
+    input: '[REQ] ($700) - (#Claymont, De, USA) (3/1/18) (25% interest, 3 payments) (SquareCash, Venmo, Paypal)'
+    labels:
+        -
+            - 37
+            - 43
+-
+    input: '[REQ] ($400.00) - (#Pittsburgh, PA, USA), (March 30, 2018), (Pre-Arranged)'
+    labels:
+        -
+            - 43
+            - 57
+-
+    input: 'REQ] ($140 - $170 return ) - (#Halifax, West Yorkshire, UK), (Late March / Early April), (PayPal)'
+    labels:
+        -
+            - 67
+            - 72
+        -
+            - 81
+            - 86
+-
+    input: '[REQ] $20 - (#Winchester, KY, USA), (3/3), (Paypal/Pre-Arranged)'
+    labels:
+        -
+            - 37
+            - 40
+-
+    input: '[REQ] ($210) - (#santa clara, CA, USA), (3/17), (paypal repay $235)'
+    labels:
+        -
+            - 41
+            - 45
+-
+    input: '[REQ] ($200) - (#Avondale, Arizona, USA), (3/9/17), (PayPall/Venmo)'
+    labels:
+        -
+            - 43
+            - 49
+-
+    input: '[REQ] ($700) - (#Mississauga, Ontario, Canada), (Repay $850 on March 23, 2018), (E-transfer/Paypal)'
+    labels:
+        -
+            - 63
+            - 77
+-
+    input: '[REQ] ( $65 ) - (#Monroeville, PA, US), (March 2, 2018), (Paypal)'
+    labels:
+        -
+            - 41
+            - 54
