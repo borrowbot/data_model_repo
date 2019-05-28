@@ -1,0 +1,99 @@
+-
+    input: '[REQ] ($250.00) - (#Baltimore, MD, USA), ($140.00 - 7/26, $140.00 + Fee 8/9), (Pre-Arranged /u/kashifr)'
+    labels:
+        -
+            - 52
+            - 56
+        -
+            - 72
+            - 75
+-
+    input: '[REQ] (20$) - (#Vantaa, Uusimaa, Finland), (17.07.2017), (Paypal/Bitcoin)'
+    labels:
+        -
+            - 44
+            - 54
+-
+    input: '[REQ] ($40) - (#Davie, FL, USA), (Payback $43 on/before July 16 2017), (Paypal or Simple)'
+    labels:
+        -
+            - 56
+            - 68
+-
+    input: '[REQ] ($200) - (#Mesa, Arizona, USA), ($220 - $110 on 7/17/17 & $110 on 7/31/17 ), (PayPal) '
+    labels:
+        -
+            - 54
+            - 61
+        -
+            - 72
+            - 79
+-
+    input: '[REQ] ($125) (#Lake Ariel, PA, US) (7/14/17) (PayPal)'
+    labels:
+        -
+            - 36
+            - 43
+-
+    input: '[REQ] ($160) - (#Glendora, CA, USA), (July 14,2017), (Payback $200 via Paypal)'
+    labels:
+        -
+            - 38
+            - 50
+-
+    input: '[REQ] ($800 USD) - (#Toronto, ON, Canada), (Repayment: $900 USD on July 22nd), (Paypal)'
+    labels:
+        -
+            - 67
+            - 76
+-
+    input: '[REQ] ($100) - (#Taylorsville, IN, USA), (7/7/17), (PayPal)'
+    labels:
+        -
+            - 42
+            - 48
+-
+    input: '[REQ] (£30) - (Wrexham, North Wales, UK), (17th July), (Paypal)'
+    labels:
+        -
+            - 43
+            - 52
+-
+    input: '[REQ] ($300) (#Brick, NJ, USA) (Prearranged, by 07/21/17) (Paypal)'
+    labels:
+        -
+            - 48
+            - 56
+-
+    input: '[REQ] ($120) - (#Little Rock, Ar, US), (Repayment Date 7-14-17 ), ( payback total $130 Payment Method/PayPal) (Prearranged)'
+    labels:
+        -
+            - 55
+            - 62
+-
+    input: '[Req] ($600.00) - (#hamilton, Ohio, USA), (repayment on 7/18, 7/25, 8/15, and 8/22, amount negotiable) (PayPal Friends and family.)'
+    labels:
+        -
+            - 56
+            - 60
+        -
+            - 62
+            - 66
+        -
+            - 68
+            - 72
+        -
+            - 78
+            - 82
+-
+    input: '[REQ] ($350)- (#SPARTANBURG SC USA), (JULY 13, 2018) (PAYPAL, CASH APP)'
+    labels:
+        -
+            - 38
+            - 51
+-
+    input: '[REQ] ($150 ) - (Philadelphia, PA, USA), (July23rd), (Paypal)'
+    labels:
+        -
+            - 42
+            - 50

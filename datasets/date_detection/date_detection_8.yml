@@ -1,0 +1,72 @@
+-
+    input: '[REQ] ($200) - (#Boston, MA, US), (8/31), ($225 via Venmo).'
+    labels:
+        -
+            - 35
+            - 39
+-
+    input: '[REQ] (£100GBP) - (#Cambridge, UK), (Payback £130 - Wed 15th Aug 2018), (Paypal)'
+    labels:
+        -
+            - 56
+            - 69
+-
+    input: '[REQ] ($200) (#Ille-sur-tet, Languedoc-rossillon, France) ($225 - 4/August) (Paypal)'
+    labels:
+        -
+            - 66
+            - 74
+-
+    input: '[REQ] ($200) - (COSTA MESA, CA, USA) ($275 8/13/18) (Venmo/Bank Transfer)'
+    labels:
+        -
+            - 43
+            - 50
+-
+    input: '[REQ] (£150) - (#Staffordshire, England, UK) (£180 on 31/8) (Paypal)'
+    labels:
+        -
+            - 54
+            - 58
+-
+    input: '[REQ] ($275) (#San Diego, CA, US) ($325, Prearranged, August 19th) (PayPal)'
+    labels:
+        -
+            - 54
+            - 65
+-
+    input: '[REQ] ($100) - (#Vancouver, BC, Canada), (August 9, 2018), (Pre-Arranged)'
+    labels:
+        -
+            - 42
+            - 56
+-
+    input: '[REQ](£400)(#London, UK)(Repay £500 on 18/08/2018)(PayPal, UKBT, other)'
+    labels:
+        -
+            - 39
+            - 49
+-
+    input: '[REQ] ($200USD) - (Levittown, PA, USA), (08/09/2018), (PayPal/pre-arranged)'
+    labels:
+        -
+            - 41
+            - 51
+-
+    input: '[REQ] ($75) - (#Edmonton, Alberta, Canada), ($100 on 8/24/18), (Interac eTransfer)'
+    labels:
+        -
+            - 53
+            - 60
+-
+    input: '[REQ] (£60) - (#London, England, UK), (£75 25/08/18), (Payment Method/Pre-Arranged)'
+    labels:
+        -
+            - 43
+            - 51
+-
+    input: '[REQ] ($35 ) - (#Phoenix, AZ, USA), ($45 August 7th), (Paypal)'
+    labels:
+        -
+            - 41
+            - 51
