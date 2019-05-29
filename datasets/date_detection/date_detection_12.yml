@@ -1,0 +1,72 @@
+-
+    input: '[REQ] ($800) - (#Nashville, TN, USA), (12/5/17), (Facebook Messenger, Venmo)'
+    labels:
+        -
+            - 39
+            - 46
+-
+    input: '[REQ] ($50 ) - (#Gettysburg, Pennsylvania, The United States), (December 8th, 2017), (PayPal;Repay:$75)'
+    labels:
+        -
+            - 64
+            - 82
+-
+    input: '[REQ] ($300)- (#Logan, UT, USA), (Repayment: Dec, 15th, 2017), (PayPal, Venmo)'
+    labels:
+        -
+            - 45
+            - 60
+-
+    input: '[REQ] ($500 ) - (#Castaic, CA, United States of America), (12/20/2017), (Paypal)'
+    labels:
+        -
+            - 59
+            - 69
+-
+    input: '[REQ] (350$ ) - (#Canton,Ohio,USA), (Dec 21st 2017), (Cash App/Facebook messenger/paypal)'
+    labels:
+        -
+            - 37
+            - 59
+-
+    input: '[REQ] ($600) - (#Shawnee, OK, US), ($650 on 12/1), (Pre-Arranged)'
+    labels:
+        -
+            - 44
+            - 48
+-
+    input: '[REQ] ($200) - (#JohnsonCity, TN, USA), (Repay $260 on 12/1/18), (Pre-Arranged)'
+    labels:
+        -
+            - 55
+            - 62
+-
+    input: '[REQ] (90) - (#Chicago, IL, USA), (Dec 1st), (Paypal/Pre-Arranged)'
+    labels:
+        -
+            - 35
+            - 42
+-
+    input: '[REQ] ($400) - (#Philadelphia, PA, USA), (Dec 12th, 2017), (Pre-Arranged) '
+    labels:
+        -
+            - 42
+            - 56
+-
+    input: '[REQ] ($500) - (#Endicott, NY, USA), ($600 repaid by Dec 10th), (Paypal)'
+    labels:
+        -
+            - 53
+            - 61
+-
+    input: '[REQ] ($750) - (#Queens, NY, USA), (December 31, 2017), (Paypal/Venmo)'
+    labels:
+        -
+            - 36
+            - 53
+-
+    input: '[REQ] ($420 USD) (#West Hills, CA, USA) ($450 due back by 12/31/2017) (PayPal)'
+    labels:
+        -
+            - 58
+            - 68

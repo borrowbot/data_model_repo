@@ -1,0 +1,84 @@
+-
+    input: '[REQ] ($350) - (#Chicago,Illinois,USA) ($420 on 9-24-18) (Paypal, Venmo)'
+    labels:
+        -
+            - 48
+            - 55
+-
+    input: '[REQ] (£400/$510) - (#London, England), (£450/$572 17/09/2018), (PayPal/Bank Transfer)'
+    labels:
+        -
+            - 51
+            - 61
+-
+    input: '[REQ] (250$) - (McKinney, tx, USA), (Sept 5), (zelle, cash app, no PayPal because I do need the money soon.)'
+    labels:
+        -
+            - 37
+            - 43
+-
+    input: '[REQ] #Seeking to borrow 200 will payback 275 on the 20th of September.'
+    labels:
+        -
+            - 53
+            - 60
+-
+    input: '[REQ] ($60) - (#Glendale, Arizona, USA) (Repay $75 on September 20th) (PayPal)'
+    labels:
+        -
+            - 54
+            - 68
+-
+    input: '[REQ] ($350) (#Los Angeles, CA, USA) ($380 paid back in 2 payments of $190 on 9/10 & 9/24) (Method preferred by lender)'
+    labels:
+        -
+            - 78
+            - 82
+        -
+            - 85
+            - 89
+-
+    input: '[REQ] - ($250) (#West Chester, PA, USA) (Repayment $265 9/21) (Paypal, Venmo, Cash App)'
+    labels:
+        -
+            - 56
+            - 60
+-
+    input: '[REQ] ($160) (Arlington,VA,US) (Repay $200 on 09/30/2018) (Cash App)'
+    labels:
+        -
+            - 46
+            - 56
+-
+    input: '[REQ] ($150) (#ATLANTA,GEORGIA,USA) (PAYBACK TOTAL $200 IN 2 PMTS OF $100 EACH, 1ST 9/13/2018_2ND 9/27/2018) (PAYPAL)'
+    labels:
+        -
+            - 84
+            - 93
+        -
+            - 98
+            - 107
+-
+    input: '[REQ] ($100) - (Austin, TX) (Repay $125 via PayPal on 9-7-18)'
+    labels:
+        -
+            - 54
+            - 60
+-
+    input: '[REQ] ($100 ) - (#Los Angeles, CA), (20 September 2017), (Full, Bitcoin cash)'
+    labels:
+        -
+            - 37
+            - 54
+-
+    input: '[REQ] ($200) - (#Brooklyn, NY, USA), (Repay $240 on 9/15/2017), (PayPal).'
+    labels:
+        -
+            - 52
+            - 61
+-
+    input: '[REQ] - ($400), (#Melbourne, VIC, Australia), (29/09/2017), (Paypal)'
+    labels:
+        -
+            - 47
+            - 57
