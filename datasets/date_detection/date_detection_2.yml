@@ -1,8 +1,9 @@
 -
     input: '[REQ] ($150) - (#Bowie,Maryland , USA), ($250 Feb 2nd, 2018), (PayPal)'
     labels:
-        - 46
-        - 59
+        -
+            - 46
+            - 59
 
 -
     input: 'REQ- (#yorba linda, CA, USA) (repayment feb 1,2018) paypal'
