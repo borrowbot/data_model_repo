@@ -27,7 +27,7 @@
     labels:
         -
             - 37
-            - 59
+            - 50
 -
     input: '[REQ] ($600) - (#Shawnee, OK, US), ($650 on 12/1), (Pre-Arranged)'
     labels:

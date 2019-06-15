@@ -21,7 +21,7 @@
     labels:
         -
             - 53
-            - 60
+            - 70
 -
     input: '[REQ] ($60) - (#Glendale, Arizona, USA) (Repay $75 on September 20th) (PayPal)'
     labels:
